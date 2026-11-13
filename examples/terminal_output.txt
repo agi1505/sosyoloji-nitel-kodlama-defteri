@@ -1,0 +1,16 @@
+Nitel Görüşme Kodlama Defteri
+Gerçek ad yerine takma kod kullanın; alıntıları kaydetmeden önce gözden geçirin.
+
+Katılımcı takma kodu: P01
+Görüşme alıntısı: Kurgusal görüşme alıntısı.
+Tema veya temalar (virgülle ayırın): Eğitim, Eşitsizlik
+Alıntıda tanıtıcı bilgi var mı? (E/H): h
+Kayıt eklendi.
+Yeni kayıt eklemek ister misiniz? (E/H): h
+
+Kayıt özeti
+Bu oturumda eklenen kayıt: 1
+Tema sayıları:
+- Eğitim: 1
+- Eşitsizlik: 1
+Kayıtlar kodlama_kayitlari.csv dosyasına eklendi.
